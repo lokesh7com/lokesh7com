@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![looking for fullstack developer MERN job  as fresher](Color=%23FFFFFF)
+[looking for fullstack developer MERN job  as fresher](Color=%23FFFFFF)
 
 
 ## 🌐 Socials:
