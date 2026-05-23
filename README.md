@@ -1,5 +1,5 @@
 # 💫 About Me:
-looking for full stack developer role as fresher
+[![looking for fullstack developer MERN job  as fresher](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)
 
 
 ## 🌐 Socials:
